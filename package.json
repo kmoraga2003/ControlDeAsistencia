@@ -1,0 +1,6 @@
+{
+  "name": "proyecto-software-asistencia",
+  "dependencies": {
+    "firebase": "^12.15.0"
+  }
+}
